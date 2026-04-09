@@ -16,7 +16,7 @@ Beyond the core stack, I bring hands-on experience with **GSAP** and **Framer Mo
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-gautam-mehtoa3a57b209)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautam-mehto)
 
 ---
 
